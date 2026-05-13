@@ -1,0 +1,14 @@
+:root {
+ 
+  --accent-color: #ff0070;           
+  --bg-color: #000028;               
+  --text-color: #f1f1f1;              
+  --title-color: #db00ff;             
+  --section-title-color: #ff0070;      
+  --title-decor-text: #000028;         
+  --button-color: #ff0070;      
+  --link-color: #f1f1f1;              
+  --bg-image: url('../images/cover-image-dark.png');
+  --main-font: 'IBM Plex mono', monospace;
+  --padding-mobile: 10px;
+}
